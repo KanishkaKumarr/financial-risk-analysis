@@ -15,8 +15,3 @@ Analyze financial datasets to assess risk exposure and provide actionable insigh
 ## Outcome
 Identified top 10% high-risk assets, helping guide decisions on credit and market risk management.
 
-## Files
-- `financial_risk_analysis.py` – Python code performing analysis  
-- `sample_dataset.csv` – Sample data used for analysis  
-- `visualizations.png` – Graphical representation of risk trends
-
